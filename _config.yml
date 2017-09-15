@@ -18,15 +18,15 @@ avatar: https://avatars3.githubusercontent.com/u/5176721?v=4&u=b8854143ba0b54f8e
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: abdelrahman.elbarbary@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/aelbarbary
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/abdelrahman-el-barbary-b526a120/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: aelbarbary
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
