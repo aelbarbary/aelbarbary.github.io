@@ -10,8 +10,8 @@ I am a Muslim, Egyptian/American, a husband, a father of tow kids (Zakariah and 
 
 I believe that:
 
-All that glitters is not gold
-God created us in tribes and nations to know each other not to fight each other
+* All that glitters is not gold
+* God created us in tribes and nations to know each other not to fight each other
 
 
 ### Contact me
