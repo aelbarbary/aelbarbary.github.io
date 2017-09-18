@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinesis Vs. Kafka
+title: Kinesis or Kafka ?
 ---
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
@@ -16,14 +16,24 @@ Kinesis is a a fully-managed streaming processing service that’s available on 
 ### Cost:
 ![_config.yml]({{ site.baseurl }}/images/cost.png)
 
-Apache Kafka requires that you do all the setup and configuration yourself. There will learning curve at the beginning and it will take some time to tune the platform for your use case. on the other hand, Kinesis is a cloud service. Thus, the cost for setup and configuration is fairly less but it won't be very efficient for certain use cases.
+Apache Kafka requires that you do all the setup and configuration yourself. There will learning curve at the beginning and it will take some time to tune the platform for your use case.
 
+Kinesis is a cloud service. Thus, the cost for setup and configuration is fairly less but it won't be very efficient for certain use cases on the long run.
 
 ### Performance:
+![_config.yml]({{ site.baseurl }}/images/fast.png)
 
-### Scalability:
+Kafka's performance is better given the same price. The reason behind this is that Kinesis needs to write each message synchronously to 3 different machines (availability zones) and this is costly in terms of latency and throughput.
 
-### Customers:
+
+### Powered By:
+![_config.yml]({{ site.baseurl }}/images/customers.png)
+
+Kafka: linkedin, pinterest, yahoo, spotify, netflex, tumblr, paypal .... and
+[more](https://kafka.apache.org/powered-by)
+
+Kinesis: Nordstrom, dash, supercell, NDN ... and [more](https://aws.amazon.com/kinesis/streams/)
+
 
 
 <!-- The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
