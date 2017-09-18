@@ -9,9 +9,10 @@ title: Kinesis Vs. Kafka
 
 ![_config.yml]({{ site.baseurl }}/images/simple.png)
 
-Kinesis is a a fully-managed streaming processing service that’s available on AWS.the only options you need to configure is number of shards and the number of days you need to keep the data.
+Kafka is an open source streaming platform that you have to host it and configure it yourself. Makes it a little bit complex to manage and configure but gives you more control and better performance.
 
-Kafka is an open source streaming platform that you have to host it and configure it yourself.
+Kinesis is a a fully-managed streaming processing service that’s available on AWS. The only options you need to configure is number of shards and the number of days you need to keep the data.
+
 
 ### Cost:
 
