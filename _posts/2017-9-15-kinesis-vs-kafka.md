@@ -5,7 +5,7 @@ title: Kinesis Vs. Kafka
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
-## Setup and Configuration.
+### Setup and Configuration.
 
 ![_config.yml]({{ site.baseurl }}/images/simple.png)
 
@@ -13,8 +13,10 @@ Kafka is an open source streaming platform that you have to host it and configur
 
 Kinesis is a a fully-managed streaming processing service that’s available on AWS. The only options you need to configure is number of shards and the number of days you need to keep the data.
 
-
 ### Cost:
+![_config.yml]({{ site.baseurl }}/images/cost.png)
+
+Apache Kafka requires that you do all the setup and configuration yourself. There will learning curve at the beginning and it will take some time to tune the platform for your use case. on the other hand, Kinesis is a cloud service. Thus, the cost for setup and configuration is fairly less but it won't be very efficient for certain use cases.
 
 
 ### Performance:
