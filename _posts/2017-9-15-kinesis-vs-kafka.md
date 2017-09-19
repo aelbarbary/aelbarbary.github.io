@@ -25,6 +25,12 @@ Kinesis is a cloud service. Thus, the cost for setup and configuration is fairly
 
 Kafka's performance is better given the same price. The reason behind this is that Kinesis needs to write each message synchronously to 3 different machines (availability zones) and this is costly in terms of latency and throughput.
 
+### Maximum Retain Period:
+![_config.yml]({{ site.baseurl }}/images/retain.png)
+
+Kafka can store records forever (In Fact, there is nothing called "forever" on planet earth. but you got what I mean. right?).
+
+On the other hand, An Kinesis stream stores records from 24 hours by default, up to 168 hours (7 days only).
 
 ### Powered By:
 ![_config.yml]({{ site.baseurl }}/images/customers.png)
