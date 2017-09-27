@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kinesis or Kafka ?
+comments: true
 ---
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
