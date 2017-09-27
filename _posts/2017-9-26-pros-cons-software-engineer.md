@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pros and Cons for working as a software engineer ?
+title: Software Engineering as a career ... Pros and Cons
 comments: true
 ---
 
