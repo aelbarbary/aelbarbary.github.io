@@ -18,8 +18,13 @@ comments: true
 
 ### Cons ... but
 
-* Working on a boring Project > Always Love what you do. it will make you happy
-* Using a boring or legacy technology > If you know you can do better then do better.  
-* You will be required to learn a new technology/product in short time > Keep learning, it makes you young
-* You work for wrong leader > If you cannot find a leader, be a leader
-* You will be required to put long working hours > Nothing worth having comes easy
+* Working on a boring Project
+> Always Love what you do. it will make you happy
+* Using a boring or legacy technology
+> If you know you can do better then do better.  
+* You will be required to learn a new technology/product in short time
+> Keep learning, it makes you young
+* You work for wrong leader
+> If you cannot find a leader, be a leader
+* You will be required to put long working hours
+> Nothing worth having comes easy
