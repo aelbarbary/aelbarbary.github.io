@@ -5,10 +5,9 @@ comments: true
 ---
 
 
+![_config.yml]({{ site.baseurl }}/images/swe-pros-cons.png)
 
 ### Pros
-
-![_config.yml]({{ site.baseurl }}/images/swe-pros-cons.png)
 
 * Good Money.
 * Flexible Working Hours. Also most software companies allow their employees to work remotely few days a month.
