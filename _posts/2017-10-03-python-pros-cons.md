@@ -1,0 +1,21 @@
+---
+layout: post
+title: Why do I love python? ... Why do I hate Python?
+comments: true
+---
+
+![_config.yml]({{ site.baseurl }}/images/python.png)
+
+### Why do I love Python?
+
+* An easy to learn language.
+* Core data structure. nice set of functions with easy to remember names
+* It only takes a few minutes to write a working program.
+* Open access to huge variety of existing libraries and algorithms
+* Very easy to get high performance when you need it (on a single machine)
+
+
+### Why do I hate Python?
+
+* Issues can be buried for long times before it is discovered.
+* There are many ways to get the same thing done. required a lot of discipline if you want to keep things consistent and clean

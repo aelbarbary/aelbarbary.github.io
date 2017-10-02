@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Muslim, Egyptian/American, a husband, a father of tow kids (Zakariah and Aliah) and a software engineer who has passion solving interesting problems in the simplest and most maintainable possible way. I love simple solution even if it is less efficient.
+I am an Egyptian/American, a husband, a father of tow kids (Zakariah and Aliah) and a software engineer who has passion solving interesting problems in the simplest and most maintainable possible way. I love to start with simple solutions even if it is less efficient. it is always easier to make a simple solution more efficient than changing/maintaining an efficient but sophisticated solution.
 
 ### More Information
 
