@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Why do I love python? ... Why do I hate Python?
+title: Why do I love Python? ... Why do I hate Python?
 comments: true
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/python.png)
+
+Before The cloud era, software engineers used to build system modules and services by hands. they needed strong and powerful tool to do such job. Java/C# is one of them. 
+
+After the cloud era, all what engineers need to do is to choose the right service and glow them together.
+
+Python is the best glow brand in the market. it is cheap, fast, strong and easy to use.
 
 ### Why do I love Python?
 
