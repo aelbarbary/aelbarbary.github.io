@@ -6,15 +6,13 @@ permalink: /about/
 
 I am an Egyptian/American, a husband, a father of tow kids (Zakariah and Aliah) and a software engineer who has passion solving interesting problems in the simplest and most maintainable possible way. I love to start with simple solutions even if it is less efficient. it is always easier to make a simple solution more efficient than changing/maintaining an efficient but sophisticated solution.
 
-### More Information
+### My Philosophy of life
 
-I believe that:
 
+### Quotes that inspires me:
 * All that glitters is not gold
-* Keep it simple
 * Good things take time
-
-
+* You Have To Win The Small Battles To Win The War
 
 ### Contact me
 
