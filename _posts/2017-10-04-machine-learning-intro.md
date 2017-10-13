@@ -4,7 +4,7 @@ title: Introduction to Machine Learning (ML)
 comments: true
 ---
 
-![_config.yml]({{ site.baseurl }}/images/ml-intro.png)
+![_config.yml]({{ site.baseurl }}/images/ml.png)
 
 ### Definition
 
