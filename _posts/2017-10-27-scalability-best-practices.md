@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Scalability Best Practices
+title: Software Scalability ... Inspiration from God's creations
 comments: true
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/scalability.png)
+
+> So blessed is Allah, the best of creators _Al-Muminoon-14_
 
 ### Best Practices
 
