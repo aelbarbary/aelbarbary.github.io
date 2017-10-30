@@ -10,7 +10,7 @@ comments: true
 
 ### Caching
 
-![_config.yml]({{ site.baseurl }}/images/mind.png)
+![Caching]({{ site.baseurl }}/images/mind.jpg)
 
 Your body has a built in cache as well.
 
@@ -26,7 +26,7 @@ To software, The conscious mind is database base that contains all the entities 
 
 ### Sharding
 
-![_config.yml]({{ site.baseurl }}/images/sharding.png)
+![Sharding]({{ site.baseurl }}/images/sharding.jpg)
 
 Imagine a apple tree where there is no branches. all the apples originated directly from the root. would this work ? would this scale ?
 
