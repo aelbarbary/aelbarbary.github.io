@@ -9,6 +9,7 @@ comments: true
 > So blessed is Allah, the best of creators _Al-Muminoon-14_
 
 * Caching
+
 ![_config.yml]({{ site.baseurl }}/images/mind.png)
 
 Your body has a built in cache as well.
@@ -24,6 +25,7 @@ When you walk to the store, while your brain is recalling all the groceries item
 To software, The conscious mind is database base that contains all the entities that are relevant to the business. it is small in size but it is great in value. The subconscious and unconscious mind are the data and lookups that need to be easily accessible without doing much effort in order to take important business decisions. and that is your mind cache.
 
 * Sharding
+
 ![_config.yml]({{ site.baseurl }}/images/sharding.png)
 
 Imagine a apple tree where there is no branches. all the apples originated directly from the root. would this work ? would this scale ?
